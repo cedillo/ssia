@@ -3,7 +3,7 @@
 	require 'src/conexion.php';
 	require 'Slim/Slim.php';
 	//require_once 'Excel/reader.php';
-	
+	//prueba
 	\Slim\Slim::registerAutoloader();
 	$app = new \Slim\Slim();
 
